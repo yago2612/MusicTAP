@@ -1,4 +1,4 @@
-#MUSICTAP#
+MUSICTAP
 
 Proyecto que implementa programación paralela con arquitectura SDMI
 
